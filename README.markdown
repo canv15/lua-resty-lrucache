@@ -64,6 +64,8 @@ return _M
 
 ```nginx
 # nginx.conf
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-lrucache.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-lrucache?ref=badge_shield)
+
 
 http {
     lua_package_path "/path/to/lua-resty-lrucache/lib/?.lua;;";
@@ -291,3 +293,7 @@ See Also
 
 [Back to TOC](#table-of-contents)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-lrucache.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-lrucache?ref=badge_large)
